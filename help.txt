@@ -1,0 +1,24 @@
+* Write Help *
+
+You can use the following keyboard shortcuts to get things done:
+
+File Commands:
+
+Ctrl+S 			Save File
+Ctrl+Shift+S 		Save File As
+Ctrl+O 			Open File
+Ctrl+N	 		New File
+
+Printing & Export:
+
+Ctrl+P	 		Print
+Ctrl+E	 		Export
+
+Application Commands:
+
+Ctrl+Shift+F		Toggle Full+Screen
+Alt+Down		Reduce Brightness
+Alt+Up 			Increase Brightness
+Ctrl+Space 		Toggle Text Blur
+Ctrl+H 			Show Help
+Ctrl+Q	 		Quit

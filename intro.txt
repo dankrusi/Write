@@ -1,0 +1,13 @@
+* Welcome to Write version 1.0 *
+
+Write is a very simple focus-mode text editor for Linux, OS X and Windows. It lets you write without being disturbed by a user-interface.
+
+Begin a new document by pressing Ctrl-N. For more commands and help, press F1.
+
+Use your scroll-wheel or arrow keys to navigate the following dummy-text:
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vel turpis massa. Nulla auctor sapien at sapien adipiscing eget laoreet elit vehicula. Aenean sit amet turpis magna. Vestibulum luctus posuere tincidunt. Curabitur egestas, ipsum vel dapibus imperdiet, orci massa imperdiet elit, vitae ullamcorper nisi neque nec ante. In hac habitasse platea dictumst. Fusce libero nibh, sollicitudin et scelerisque eget, suscipit in enim. Phasellus sit amet leo non risus scelerisque cursus.
+
+Praesent feugiat, nunc id tincidunt porttitor, metus velit suscipit libero, varius egestas odio magna eget est. Mauris in justo a purus posuere scelerisque nec ut dolor. Sed sagittis tincidunt tellus, nec viverra arcu vestibulum vitae. Donec a dolor ipsum, in feugiat sem. Etiam sapien tellus, sodales tristique scelerisque in, cursus sit amet odio. Nunc vehicula ultricies nibh, vel tristique purus imperdiet a. Praesent feugiat, risus tristique lacinia fringilla, sem sapien convallis arcu, id scelerisque metus metus quis urna. Mauris vel adipiscing tortor. Nulla tempus rutrum turpis. Nam pretium, lorem at molestie aliquet, dui neque sodales diam, eget mollis arcu leo ac felis. Praesent dignissim, odio at cursus bibendum, velit risus dictum lacus, eget adipiscing purus massa ut nulla. Sed id facilisis enim. Vestibulum porttitor vulputate enim ac suscipit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam imperdiet dignissim sapien, eget dignissim massa ornare in.
+
+Cras in ipsum mi, quis molestie arcu. Curabitur porttitor semper tristique. Maecenas eget lectus et tortor porta porta ut quis diam. Cras vel lectus vitae libero porta ornare. Cras non augue eget nisl condimentum blandit. Sed a dui sem, et sagittis dui. Morbi ac velit felis. Praesent malesuada nisl at sapien tempor lacinia. Curabitur ut lectus id elit facilisis condimentum. 
